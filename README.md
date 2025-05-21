@@ -21,3 +21,6 @@ git clone https://github.com/vinodr24/bfhl-java-test.git
 cd bfhl-java-test
 mvn clean package
 java -jar target/bfhl-java-test-0.0.1-SNAPSHOT.jar
+
+## Jar File Link
+https://github.com/vinodr24/bfhl_java_test/raw/main/bfhl-java-test/target/bfhl-java-test-0.0.1-SNAPSHOT.jar
